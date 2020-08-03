@@ -1,6 +1,6 @@
 # CAM
 
-Implementation of Learning Deep Features for Discriminative Localization([arxiv](https://arxiv.org/pdf/1512.04150.pdf))
+Implementation of Learning Deep Features for Discriminative Localization([paper](https://arxiv.org/pdf/1512.04150.pdf))
 
 ![test1](https://user-images.githubusercontent.com/25279765/36484699-7928832c-175d-11e8-9c8c-ac166404ce64.jpg) ![cam1](https://user-images.githubusercontent.com/25279765/36484700-7958af98-175d-11e8-80ce-7d8a6239308c.jpg)
 
@@ -18,7 +18,7 @@ For more detail, please refer to the original project.
 
 
 ## Environments
-- Google Colab
+- [Google Colab](https://colab.research.google.com/notebooks/welcome.ipynb?hl=ja)
 
 
 ## Dataset
