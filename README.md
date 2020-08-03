@@ -10,4 +10,4 @@ Implementation of Learning Deep Features for Discriminative Localization([arxiv]
 
 ## Reference
 
-This repository is influenced by ![zhoubolei](https://github.com/metalbubble/CAM) and ![KangBK0120](https://github.com/KangBK0120/CAM)
+This repository is influenced by [zhoubolei](https://github.com/metalbubble/CAM) and [KangBK0120](https://github.com/KangBK0120/CAM)
