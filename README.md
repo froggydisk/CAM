@@ -12,7 +12,7 @@ This implementation is a simplified version of original project. The network was
 
 
 ## Usage
-This code implements only the main functions of the original project and visually check the main functions' results.     
+This code implements only the main functions of the original project and visually checks their results.     
 For more detail, please refer to the [original project.](https://github.com/metalbubble/CAM)
 
 
