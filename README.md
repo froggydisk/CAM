@@ -8,7 +8,7 @@ Implementation of Learning Deep Features for Discriminative Localization([paper]
 
 ![test3](https://user-images.githubusercontent.com/25279765/36484707-7cda1332-175d-11e8-82a0-711c86a6a454.jpg) ![cam3](https://user-images.githubusercontent.com/25279765/36484708-7d05851c-175d-11e8-8141-ff4e23958c44.jpg)
 
-This implementation is a simplified version of original project.
+This implementation is a simplified version of original project.  
 The network was made easy to understand.
 
 
