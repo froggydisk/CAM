@@ -8,6 +8,24 @@ Implementation of Learning Deep Features for Discriminative Localization([arxiv]
 
 ![test3](https://user-images.githubusercontent.com/25279765/36484707-7cda1332-175d-11e8-82a0-711c86a6a454.jpg) ![cam3](https://user-images.githubusercontent.com/25279765/36484708-7d05851c-175d-11e8-8141-ff4e23958c44.jpg)
 
+This implementation is a simplified version of original project.
+The network was made easy to understand.
+
+
+## Usage
+This code implements only the main functions of the original project and visually check the main functions' results.     
+For more detail, please refer to the original project.
+
+
+## Environments
+- Google Colab
+
+
+## Dataset
+- MNIST
+- CIFAR10
+
+
 ## Reference
 
 This repository is influenced by [zhoubolei](https://github.com/metalbubble/CAM) and [KangBK0120](https://github.com/KangBK0120/CAM)
