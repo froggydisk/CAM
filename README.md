@@ -2,11 +2,12 @@
 
 Implementation of Learning Deep Features for Discriminative Localization([paper](https://arxiv.org/pdf/1512.04150.pdf))
 
-![test1](https://user-images.githubusercontent.com/25279765/36484699-7928832c-175d-11e8-9c8c-ac166404ce64.jpg) ![cam1](https://user-images.githubusercontent.com/25279765/36484700-7958af98-175d-11e8-80ce-7d8a6239308c.jpg)
-
-![test2](https://user-images.githubusercontent.com/25279765/36484702-7b559ef0-175d-11e8-9359-4727cd4cadd9.jpg) ![cam2](https://user-images.githubusercontent.com/25279765/36484704-7b88e27e-175d-11e8-8032-95654cb1e051.jpg)
-
-![test3](https://user-images.githubusercontent.com/25279765/36484707-7cda1332-175d-11e8-82a0-711c86a6a454.jpg) ![cam3](https://user-images.githubusercontent.com/25279765/36484708-7d05851c-175d-11e8-8141-ff4e23958c44.jpg)
+![test1](https://drive.google.com/uc?export=view&id=1lHqpu8QE8PMa8BuIzwbiJQNOV_5HZ9xe) ![cam1](https://drive.google.com/uc?export=view&id=1uAmApd8PnsCBixmM6whvkBPmrVF5LGV7)  
+![test2](https://drive.google.com/uc?export=view&id=1coE6aIaoZ-lgrqsOnHE9HIuRHj1dImwh) ![cam2](https://drive.google.com/uc?export=view&id=108Y6Ds_sZ7FkruX7qThMdt5RrrPo2VQf)  
+![test3](https://drive.google.com/uc?export=view&id=1hOUnEG8qpj8-GafGajwie7PAUI6nyGbh) ![cam3](https://drive.google.com/uc?export=view&id=1V84PrTRS3EALuSb2_3stXYas-Den0alc)  
+![test4](https://drive.google.com/uc?export=view&id=) ![cam4](https://drive.google.com/uc?export=view&id=1RzaGt4mPik8XDlg5JNsX7hkHlVYQ3YoJ)
+![test5](https://drive.google.com/uc?export=view&id=) ![cam5](https://drive.google.com/uc?export=view&id=16EGjSSm3yOuTQFkG_F0zhI0pVhMkUbd_)
+![test6](https://drive.google.com/uc?export=view&id=) ![cam6](https://drive.google.com/uc?export=view&id=)
 
 This implementation is a simplified version of original project. The network was made easy to understand.
 
@@ -24,6 +25,14 @@ For more detail, please refer to the [original project.](https://github.com/meta
 - MNIST
 - CIFAR10
 
+## Settings
+```python
+dataset = 'CIFAR10'
+img_size = 32
+batch_size = 128
+epoch = 5
+learning_rate = 0.001
+```
 
 ## Reference
 
