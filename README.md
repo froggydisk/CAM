@@ -5,8 +5,8 @@ Implementation of Learning Deep Features for Discriminative Localization([paper]
 ![test1](https://github.com/froggydisk/froggydisk.github.io/blob/master/assets/images/bird1.jpg?raw=true) ![cam1](https://github.com/froggydisk/froggydisk.github.io/blob/master/assets/images/bird5.png?raw=true)  
 ![test2](https://github.com/froggydisk/froggydisk.github.io/blob/master/assets/images/horse1.jpg?raw=true) ![cam2](https://github.com/froggydisk/froggydisk.github.io/blob/master/assets/images/horse5-2.png?raw=true)  
 ![test3](https://github.com/froggydisk/froggydisk.github.io/blob/master/assets/images/ship1.jpeg?raw=true) ![cam3](https://github.com/froggydisk/froggydisk.github.io/blob/master/assets/images/ship40.png?raw=true)  
-![test4](https://github.com/froggydisk/froggydisk.github.io/blob/master/assets/images/dog2.jpg?raw=true) ![cam4](https://github.com/froggydisk/froggydisk.github.io/blob/master/assets/images/dog5-1.png?raw=true)  
-![test5](https://github.com/froggydisk/froggydisk.github.io/blob/master/assets/images/dog3.jpg?raw=true) ![cam5](https://github.com/froggydisk/froggydisk.github.io/blob/master/assets/images/dog5-2.png?raw=true)  
+![test4](https://github.com/froggydisk/froggydisk.github.io/blob/master/assets/images/dog1.jpg?raw=true) ![cam4](https://github.com/froggydisk/froggydisk.github.io/blob/master/assets/images/dog5-1.png?raw=true)  
+![test5](https://github.com/froggydisk/froggydisk.github.io/blob/master/assets/images/dog2.jpg?raw=true) ![cam5](https://github.com/froggydisk/froggydisk.github.io/blob/master/assets/images/dog5-2.png?raw=true)  
 ![test6](https://github.com/froggydisk/froggydisk.github.io/blob/master/assets/images/horse2.jpg?raw=true) ![cam6](https://github.com/froggydisk/froggydisk.github.io/blob/master/assets/images/horse5-1.png?raw=true)
 
 This implementation is a simplified version of original project. The network was made easy to understand.
