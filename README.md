@@ -2,12 +2,12 @@
 
 Implementation of Learning Deep Features for Discriminative Localization([paper](https://arxiv.org/pdf/1512.04150.pdf))
 
-![test1](https://github.com/froggydisk/froggydisk.github.io/blob/master/assets/images/bird1.jpg?raw=true) ![cam1](https://github.com/froggydisk/froggydisk.github.io/blob/master/assets/images/bird5.png?raw=true)  
-![test2](https://github.com/froggydisk/froggydisk.github.io/blob/master/assets/images/horse1.jpg?raw=true) ![cam2](https://github.com/froggydisk/froggydisk.github.io/blob/master/assets/images/horse5-1.png?raw=true)  
-![test3](https://github.com/froggydisk/froggydisk.github.io/blob/master/assets/images/ship1.jpeg?raw=true) ![cam3](https://github.com/froggydisk/froggydisk.github.io/blob/master/assets/images/ship40.png?raw=true)  
-![test4](https://github.com/froggydisk/froggydisk.github.io/blob/master/assets/images/dog1.jpg?raw=true) ![cam4](https://github.com/froggydisk/froggydisk.github.io/blob/master/assets/images/dog5-1.png?raw=true)  
-![test5](https://github.com/froggydisk/froggydisk.github.io/blob/master/assets/images/dog2.jpg?raw=true) ![cam5](https://github.com/froggydisk/froggydisk.github.io/blob/master/assets/images/dog5-2.png?raw=true)  
-![test6](https://github.com/froggydisk/froggydisk.github.io/blob/master/assets/images/horse2.jpg?raw=true) ![cam6](https://github.com/froggydisk/froggydisk.github.io/blob/master/assets/images/horse5-2.png?raw=true)
+![test1](https://github.com/froggydisk/froggydisk.github.io/blob/master/assets/img/bird1.jpg?raw=true) ![cam1](https://github.com/froggydisk/froggydisk.github.io/blob/master/assets/img/bird5.png?raw=true)  
+![test2](https://github.com/froggydisk/froggydisk.github.io/blob/master/assets/img/horse1.jpg?raw=true) ![cam2](https://github.com/froggydisk/froggydisk.github.io/blob/master/assets/img/horse5-1.png?raw=true)  
+![test3](https://github.com/froggydisk/froggydisk.github.io/blob/master/assets/img/ship1.jpeg?raw=true) ![cam3](https://github.com/froggydisk/froggydisk.github.io/blob/master/assets/img/ship40.png?raw=true)  
+![test4](https://github.com/froggydisk/froggydisk.github.io/blob/master/assets/img/dog1.jpg?raw=true) ![cam4](https://github.com/froggydisk/froggydisk.github.io/blob/master/assets/img/dog5-1.png?raw=true)  
+![test5](https://github.com/froggydisk/froggydisk.github.io/blob/master/assets/img/dog2.jpg?raw=true) ![cam5](https://github.com/froggydisk/froggydisk.github.io/blob/master/assets/img/dog5-2.png?raw=true)  
+![test6](https://github.com/froggydisk/froggydisk.github.io/blob/master/assets/img/horse2.jpg?raw=true) ![cam6](https://github.com/froggydisk/froggydisk.github.io/blob/master/assets/img/horse5-2.png?raw=true)
 
 This implementation is a simplified version of original project. The network was made easy to understand.
 
